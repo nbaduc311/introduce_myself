@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(45, 45, 45);
+}
+
+h1 {
+    font-family: Roboto ;
+    color: white;
+}
+
+#p1 {
+    color: tomato;
+    font-size: 1em;
+    font-weight:bold;
+    font-style: italic;
+}
+
+#p2 {
+    color: rgb(0, 255, 255);
+}
+
+#p3 {
+    color: rgb(0, 255, 123);
+}
+
+#p4 {
+    color: rgb(246, 255, 0);
+}
